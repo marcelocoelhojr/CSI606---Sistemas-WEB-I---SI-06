@@ -8,7 +8,7 @@
 
     require_once("../vendor/autoload.php");
     
-    $route = new \App\Routes;
+    new \App\Routes;
 
     /* 
     echo "<pre>";
